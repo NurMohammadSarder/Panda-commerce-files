@@ -199,10 +199,9 @@ h2 {
 
 .card-footer {
     text-align: center;
-    border: 0px;
-    /*box-shadow:0 10px 50px -50px #000000;
-    */background-color: white;
     padding-bottom: 53px;
+    border-top: none;
+    background-color: rgb(255 255 255 / 3%);
 }
 .buy-now-btn1 {
     font-size: 20px;

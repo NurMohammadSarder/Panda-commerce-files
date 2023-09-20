@@ -50,23 +50,24 @@ h2 {
     -ms-border-radius: 23px;
     -o-border-radius: 23px;
 }
-/* .carousel-item .row {
-    padding: 54px 90px;
-} */
-.carousel-item .row .col-md-5 h5 {
+.carousel-item .row .col-md-7 {
+    padding-left: 90px;
+    /* padding-right: 124px; */
+}
+.carousel-item .row .col-md-7 h5 {
     font-size: 41px;
     font-family: var(--font1);
     font-weight: 500;
     color: var(--h2);
 }
-.carousel-item .row .col-md-5 p{
+.carousel-item .row .col-md-7 p{
     font-size: 18px;
     font-family: var(--font2);
     font-weight: 300;
     color: var(--p);
     line-height: 35px;
 }
-.carousel-item .row .col-md-5 h6 {
+.carousel-item .row .col-md-7 h6 {
     font-size: 41px;
     font-family: var(--font1);
     font-weight: 500;
@@ -255,7 +256,7 @@ input {
     line-height: 30px;
     color: #CCCCCC;
     font-weight: 300;
-    padding: 21px 315px 21px 35px;
+    padding: 21px 35px 21px 35px;
     border-radius: 6px;
     border: none;
     -webkit-border-radius: 6px;
